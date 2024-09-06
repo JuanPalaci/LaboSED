@@ -1,0 +1,12 @@
+¿Cual es punto mas debil de PGP?
+gestion de claves
+¿cuando es conveniente utilizar solamente cifrado simetrico?
+se puede usar en general con cualquier archivo pero prefiriblemnte con grandes pero que este cifrado no es seguro
+¿En qué consiste el ciclo de vida del desarrollo de software seguro (etapa por etapa)?
+planificacion
+analsis de requistos
+diseño
+desarrollo e implementacion
+pruebas
+despliegue
+mantenimiento
